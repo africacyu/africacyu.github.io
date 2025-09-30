@@ -2,7 +2,7 @@
  * @Description:
  * @telegram: @africacy
 -->
-# 玩转Telegram / Make the most of Telegram
+# Make the most of Telegram / 玩转Telegram / 今天不学习明天被淘汰
 
 【Telegram Recommendation】
 10,000+ high-quality Telegram groups, channels, and bots — carefully selected to help you explore Telegram with ease.
@@ -11,12 +11,12 @@
 <a href="https://t.me/africacy">@africacy</a> / <a href="mailto:africacyu@gmail.com">africacyu@gmail.com
 </a>
 <br>
-【Notice / Attention】
+【Attention】
 ❗️Please comply with local laws and regulations. Users in mainland China are strictly prohibited from using this service. All legal issues arising are unrelated to this project.❗️
 
 【Telegram推荐】10000+ 优质Telegram群组、Telegram频道推荐、频道和机器人，精心筛选，让您轻松玩转Telegram。<br>
 【联系发布/删除】<a href="https://t.me/africacy">@africacy</a>/<a href="mailto:africacyu@gmail.com">africacyu@gmail.com</a><br>
-【提示/Attention】❗️请遵守当地法律法规，严禁中国大陆用户使用，一切产生的法律问题，均与本项目无关❗️<br><br>
+【提示】❗️请遵守当地法律法规，严禁中国大陆用户使用，一切产生的法律问题，均与本项目无关❗️<br><br>
 
 ## 资源下载机器人
 | 名字 | 链接 | 功能描述 |
