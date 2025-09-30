@@ -18,7 +18,7 @@
 【联系发布/删除】<a href="https://t.me/africacy">@africacy</a>/<a href="mailto:africacyu@gmail.com">africacyu@gmail.com</a><br>
 【提示/Attention】❗️请遵守当地法律法规，严禁中国大陆用户使用，一切产生的法律问题，均与本项目无关❗️<br><br>
 
-#### 资源下载机器人
+## 资源下载机器人
 | 名字               | 链接                                           | 功能描述                                   |
 | :---               | :----:                                         | :---                                       |
 | 网易云音乐下载     | [@Music163bot](https://t.me/Music163bot)       | 支持网易云音乐下载                        |
@@ -37,7 +37,8 @@
 | Pixiv下载          | [@Pixiv_bot](https://t.me/Pixiv_bot)          | Pixiv下载                                |
 | 电影搜索机器人     | [@Cctv365bot](https://t.me/Cctv365bot)        | 电影搜索机器人                          |
 
-#### 其他有趣机器人
+## 其他有趣机器人
+
 | 名字     | 链接 | 功能描述     |
 | :---        |    :----:   |          :--- |
 |  AI去衣👚机器人  | [@Xai1314bot](https://t.me/Xai1314bot?start=U0HSDEJM1525Y3AF)       | 黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模|
