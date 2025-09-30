@@ -36,6 +36,7 @@
 | B站视频下载       | [@bilifeedbot](https://t.me/bilifeedbot) | B站下载 |
 | Pixiv下载          | [@Pixiv_bot](https://t.me/Pixiv_bot) | Pixiv下载 |
 | 电影搜索机器人     | [@Cctv365bot](https://t.me/Cctv365bot) | 电影搜索机器人 |
+| WEB3德州扑克     | [@ValuePokerBot](https://t.me/valuepokerBot) | 下一代德州扑克游戏 |
 
 ## 其他有趣机器人
 | 名字 | 链接 | 功能描述     |
