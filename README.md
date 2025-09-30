@@ -6,297 +6,6 @@
  有任何问题请联系<a href="https://t.me/africacy">@africacy</a> 邮箱<a href="mailto:africacyu@gmail.com">africacyu@gmail.com</a><br><br>
  ❗️请遵守当地法律法规，严禁中国大陆用户使用，一切产生的法律问题，均与本项目无关❗️<br><br><br>
 
-
-| 名字       | 链接                                                                 | 功能描述                                   |
-| :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
-| 币圈必备学习资料   | [awesome-crypto](https://github.com/itgoyo/awesome-crypto)          | 💰财务自由必备币圈导航，没有钱包的建议先申请一个交易所钱包、个人比较推荐[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.chouyi.pro/zh-hans/join/50253981)，币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)   |
-| WEB3撸空投  | [@tglukongtou](https://t.me/tglukongtou)             | 致力于为您提供每日更新的加密货币空投项目信息、保姆级撸空投教程、钱包安全指南与行业动态。空投官网：[web3.0xnav.com](web3.0xnav.com) twitter：[https://x.com/crypto_bxs](https://x.com/crypto_bxs) |
-| 加密货币交流群  | [@jmhbgroup](https://t.me/jmhbgroup)             | 一起交流加密货币相关内容，官网：[www.0xnav.com](www.0xnav.com)   |
-| 🚀免费节点   | [https://vpnnav.github.io](https://vpnnav.github.io)               | 每天整点准时更新免费高速节点 |
-| 🌈彩虹群发器   | [https://shop.tg10000.com/buy/1](https://shop.tg10000.com/buy/1)            | 快速高效的消息群发工具，支持多账号切换，适合营销推广  |
-| 波场TRX靓号购买789A便宜出   | [https://shop.tg10000.com](https://shop.tg10000.com/)            | 波场靓号地址789A、顺子豹子靓号，为了钱包安全记得要多签  |
-| 免费频道搬运机器人   |免费机器人[@xnby003bot](https://t.me/xnby003bot)            | 搭建同款机器人[@tgxiunv](https://t.me/tgxiunv) 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)，支持频道1比1搬运，频道备份、频道模仿，破解私密频道限制下载转发搬运，频道涨粉神器💰 可文末添加自定义广告按钮，替换指定文本内容，搭建历史成交记录[@banyunchanel] |(https://t.me/banyunchanel) 不会使用可以找[@tgxiunv](https://t.me/tgxiunv)帮搬运，10U/一个频道 |
-| 超级索引官方搜索群   | [https://t.me/+kt8DCh74ZmA0ZTc9](https://t.me/+kt8DCh74ZmA0ZTc9)            | 老牌搜索机器人，可以在里面搜索你想要的一切   |
-| 搜索群①   | [@sousuo20w](https://t.me/sousuo20w)            | 可以在里面搜索你想要的一切   |
-| 搜索群②   | [@jiso5173](https://t.me/jiso5173)            | 可以在里面搜索你想要的一切   |
-| 搜索群③   | [@jisoubar](https://t.me/jisoubar)            | 极搜吧可以在里面搜索你想要的一切   |
-| 搜索群④   | [@sepiansousuo](https://t.me/sepiansousuo)            | 可以在里面搜索你想要的一切   |
-| 搜索群⑤   | [@kuaisou20w](https://t.me/kuaisou20w)            | 可以在里面搜索你想要的一切   |
-| 色色搜索   | [@sesecctv](https://t.me/sesecctv)            | 可以在里面搜索你想要的一切   |
-| 👚AI去衣机器人	| [@Xai1314bot](https://t.me/Xai1314bot?start=U0HSDEJM1525Y3AF)| 	黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模| 
-| 🍉 吃瓜无限 | [https://t.me/chiguawuxian](https://t.me/chiguawuxian) | 实时分享全网第一个热瓜      |
-| Telegram电报僵尸粉                             | [@tgxiunv](https://t.me/tgxiunv)          | 1000人/¥10(1.4U)，稳定30天不掉落，可以使用[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.chouyi.pro/zh-hans/join/50253981)等交易所红包，无手续费  |
-| 免费亚马逊云服务器 | [https://aws.amazon.com](https://aws.amazon.com/cn/free?trk=cae7b666-a896-474c-81fa-96c8aa124afd&sc_channel=sm) | 免费试用一年高速云服务器，[biliup](https://www.bilibili.com/video/BV1XqHkzCEpN/)可实现自动录制全网直播    |
-
-### 曝光不良频道，请勿轻信(Scammer)
-| 名字       | 链接                                                                 | 功能描述                                   |
-| :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
-|景福宫高端商务|[https://t.me/+7hOI03rX7YVmOWVl](https://t.me/+7hOI03rX7YVmOWVl)|真实性不清楚，请勿轻信上当|
-| 微信同城交友 | [https://t.me/+ZTtVz1cWzxEzYzVk](https://t.me/+ZTtVz1cWzxEzYzVk)|  骗子(Scammer)    |
-| 反差 | [https://t.me/+JDUoBJ5yrFs1MjQ8](https://t.me/+JDUoBJ5yrFs1MjQ8)|  骗子(Scammer)    |
-| 天天约 | [https://t.me/+_yvm-dKJM7U2MDU0](https://t.me/+_yvm-dKJM7U2MDU0)|  骗子(Scammer)    |
-| 匿名配对 | [https://t.me/+cK8sJ83ib1M2M2Zi](https://t.me/+cK8sJ83ib1M2M2Zi)|  骗子(Scammer)    |
-| 美女集中营 | [https://t.me/+qtnO1Cqjcjo5ZTU0](https://t.me/+qtnO1Cqjcjo5ZTU0)|  骗子(Scammer)    |
-| 万人骑 | [https://t.me/+Igb0DxrXmrIxNTFk](https://t.me/+Igb0DxrXmrIxNTFk)|  骗子(Scammer)    |
-| 每日大赛 | [https://t.me/+0ns42wc9C8g2MmY0](https://t.me/+0ns42wc9C8g2MmY0)|  骗子(Scammer)    |
-| 女大学生 | [https://t.me/+nkz2J9UO3shjMDI0](https://t.me/+nkz2J9UO3shjMDI0)|  骗子(Scammer)    |
-| 培训基地 | [https://t.me/+JV_e00siA6A5NzE0](https://t.me/+JV_e00siA6A5NzE0)|  骗子(Scammer)    |
-| 匿名配对 | [https://t.me/+LpD7-7rV3LxjZWRk](https://t.me/+LpD7-7rV3LxjZWRk)|  骗子(Scammer)    |
-| 红杏出墙 | [https://t.me/+SsGBTah77zNkYTRk](https://t.me/+SsGBTah77zNkYTRk)|  骗子(Scammer)    |
-
-### 机场节点推荐
-| 名字        |                                  链接                                 | 功能描述                                          |
-| :-------- | :-----------------------------------------------------------------: | :-------------------------------------------- |
-| 狗狗加速      |       [注册链接](https://www.dginv.click/#/register?code=ZyMzTvB7)      | 集群负载均衡，不限速，无审计，高速专线，Hysteria2协议，解锁流媒体及ChatGPT |
-| 耐思云       |  [注册链接](https://9haclbv160tudxwi.nc18.top/#/register?code=CwIEuyNf) | 初级套餐￥12/月，50GB流量，支持3设备，国内中转优化，流媒体与ChatGPT加速   |
-| 600mlh矿泉水 |         [注册链接](https://02d.600mlh.cc/register?code=xbKVzcN5)        | 节点30+，覆盖港澳台、日韩、新加坡、欧美等地区                      |
-| River VPN |    [注册链接](https://v5w6x7.river-vpn.ink/#/register?code=wJBT57t1)    | 全解锁全球视频网站、ChatGPT、Telegram、YouTube            |
-| FlyBit    |       [注册链接](https://www.flybit3.vip/#/register?code=PCRCZ7uE)      | 月付10起，100GB/月，设备不限，解锁流媒体和ChatGPT，支持SS协议       |
-| SuperBiu  |        [注册链接](https://superbiu.com/#/register?code=A2Qhd5vz)        | ￥9/月，50GB流量，IPLC传输，支持流媒体/GPT，限大陆个人使用          |
-| CAC Apex  |       [注册链接](https://www.cacapex.com/#/register?code=zEtWBeYg)      | 月付¥4.9，500GB流量，3000Mbps，流媒体与ChatGPT解锁         |
-| 老猫云       |        [注册链接](https://laomao.biz?path=register&code=JGCKGHWa)       | Trojan协议+IEPL专线，最高1000Mbps，50+节点              |
-| 放心云       |      [注册链接](https://web1.wowfxy.com/#/register?code=Z0i3YPhk)      | 1000Mbps不限速，全解锁流媒体，3天免费试用                     |
-| 易连VPN     |         [注册链接](https://easylink.bar/register?code=1oqy2e26)         | 永久无限流量，1000Mbps不限速，解锁流媒体与ChatGPT，3天试用         |
-| 狗狗云       | [注册链接](https://www.gougouvpn.top/index.php#/register?code=HnqZeoHA) | 老牌公益VPN，稳定品质                                  |
-| 起帆        |         [注册链接](https://www.qf1.us/#/register?code=ziz13huH)         | 首家支持Hysteria协议，高速8K视频，解锁ChatGPT和流媒体           |
-| Tomcat    |        [注册链接](https://teacat.cloud/#/register?code=wcln0rZa)        | 12元50GB，性价比选择                                 |
-| 飞兔云       |   [注册链接](https://xn--9kq10e0y7h.site/index.html?register=eA38wttl)  | 60+国家节点，全中转，高速稳定，解锁流媒体和ChatGPT                |
-| 淘气兔       |     [注册链接](https://www.taoqitu.me/index.html?register=1ab3e6wq)     | 全中转线路，4K秒开，解锁流媒体/ChatGPT                      |
-| FreeCloud |           [注册链接](https://asus.im/#/register?code=gzE3PgDa)          | 按流量计费不限时，解锁流媒体                                |
-| 红杏加速器     |      [注册链接](https://hongxingyun.xyz/web/#/login?code=wbzHC0lN)      | 高速稳定VPN                                       |
-| FSCloud   |      [注册链接](https://dash.996cloud.top/#/register?code=14lShPOs)     | 1元100G，超高性价比                                  |
-| 烤肠云       |     [注册链接](https://reborn.kaochang.ltd/#/register?code=WE8qrNPG)    | 1元2G测试套餐                                      |
-| M78星云     |        [注册链接](https://m78star.cloud/#/register?code=MLBEu8Zi)       | 高端IEPL/IPLC线路，赠送Emby，解锁流媒体与ChatGPT            |
-| OKCLOUD机场 |        [注册链接](https://okokcloud.top/#/register?code=vZRXNDss)       | 稳定高速SS/SSR节点，7天试用，解锁Netflix/HBO等              |
-| 魔戒        |         [注册链接](https://mojie.info/#/register?code=vv0sB50W)         | 性价比高，Trojan和Vmess协议，流量包不限时                    |
-| MDSSCLOUD |         [注册链接](https://mojie.info/#/register?code=vv0sB50W)         | IEPL/CC/BGP专线，最高3000Mbps，强大SLA保证              |
-| 尼尔云       |        [注册链接](https://niercloud.com/#/register?code=rmfG8Tfl)       | ¥15/月，115GB流量                                 |
-| 青云梯机场     |     [注册链接](https://qytaffcc01.qytaff.pro/register?aff=3kRr38Lo)     | 支持解锁Netflix、Disney+、ChatGPT，覆盖多国节点            |
-| 飞天猪       |  [注册链接](https://ftzaffcom01.fliggyaff.xyz/#/register?code=33L67N5N) | Trojan协议，IEPL专线，3000Mbps，支持流媒体/ChatGPT        |
-| v2lnk     |  [注册链接](https://ftzaffcom01.fliggyaff.xyz/#/register?code=33L67N5N) | 免费试用，一键连接，解锁GPT                               |
-| NiceDuck  |        [注册链接](https://my.niceduck.io/register?code=b5QXpg3C)        | 高SLA，支持流媒体/ChatGPT，赠送3家Emby资源                 |
-| Hostbrr   |        [注册链接](https://my.hostbrr.com/order/forms/a/NDc5NA==)        | 大硬盘存储VPS，Hetzner德国机房                          |
-| BuyVM     |        [注册链接](https://my.hostbrr.com/order/forms/a/NDc5NA==)        | 高性价比VPS，机房覆盖卢森堡/美国多个城市                        |
-| RackBerd  |           [注册链接](https://my.racknerd.com/aff.php?aff=6211)          | VPS主机，7个美国机房可选，成立于2019年                       |
-
-### 交易所提币或者是购买USDT、币圈撸空投
-**❗❗️️❗一旦注册完成就不再会有永久减免的机会，注册时务必使用邀请码❗️❗️❗️**
-
-**❗❗️️❗别用乱用网上的钱包接收款项，只有交易所里面的钱才不存在黑钱黑U❗️❗️❗️**
-| 名字     | 链接 | 功能描述     |
-| :---        |    :----:   |          :--- |
-| 币安    |   [https://www.binance.com](https://accounts.binance.com/zh-CN/register?ref=FANXIAN)   | 邀请码：**FANXIAN**，币安交易所(持有bnb减免40%手续费)币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[币安刷Alpha积分视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)|
-| 欧易OKX    |   [https://www.okx.com](https://www.chouyi.pro/zh-hans/join/50253981)   |      欧易交易所(减免30%手续费)邀请码：**50253981** ，OKX Boost(20%减免手续费)邀请码：**ZHUANMI**|
-| ByBit    |   [https://www.bybit.com](https://www.bybit.com/invite?ref=4VLKDMW)   |      ByBit交易所(减免30%手续费)邀请码：**4VLKDMW**|
-| Bitget    |   [https://www.bitget.com](https://www.bitget.org/zh-CN/referral/register?clacCode=QR4A7MPY&from=%2Fzh-CN%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter)   |      Bitget交易所(减免40%手续费)邀请码：**QR4A7MPY**|
-| Gate.io    |   [https://www.gatesee.com](https://www.gatesee.com/signup/VLDFUFEOAW?ref_type=103)   |     Gate.io交易所(减免40%手续费)邀请码：**VLDFUFEOAW**|
-| 火币    |   [https://www.htx.com](https://www.htx.com.de/zh-cn/v/register/double-invite/?invite_code=xpi6a223&inviter_id=11346560)   |      火币交易所(减免30%手续费)邀请码：**xpi6a223**|
-| 抹茶    |   [https://www.mexc.co](https://promote.mexc.com/r/wIE7fPvG)   |      抹茶交易所(减免40%手续费)邀请码：**wIE7fPvG**|
-
-### 2. TelegramX
-
-- [TelegramX 官方下载](https://play.google.com/store/apps/details?id=org.thunderdog.challegram)
-- [TelegramX 安卓下载（免 Google Play）](https://telegram-x.cn.uptodown.com/android)
-
-### 3. 接码平台
-
-- [SMS 接码平台](https://sms-activate.guru/?ref=2695392)
-
-### 4. Giffgaff 手机卡
-
-### Telegram API申请(申请不了的话,可代申请:5U/¥30) [@tgxiunv](https://t.me/tgxiunv)
-
-官网申请API: https://my.telegram.org/auth?to=apps
-
-| Field         | Value                                    |
-|---------------|------------------------------------------|
-| App api_id    | 23862859                                 |
-| App api_hash  | 9fc6cfff12d0763xxx1125ddb46602a          |
-| App title     | zhuanfabotsxxx                              |
-| Short name    | zhuanfabotsxxx                              |
-
-### Telegram钱包|虚拟信用卡
-| 名字     | 链接 | 功能描述     |
-| :---        |    :----:   |          :--- |
-| wallet       |   [@wallet](https://t.me/wallet)  | Telegram官方钱包，支持比特币、USDT和TON的应用内支付|
-| okpay      | [@OkayPayBot](https://t.me/OkayPayBot?start=creditCardInvite--7202424896)       |可用于店租（Amazon、Shopify、Shope等）、广告（Facebook、Google等）、云服务、游戏、开发者应用、海淘购物等全场景支付。|
-
-### 常用机器人
-
-🔥Telegram专门的机器人合集🔥：[https://github.com/itgoyo/TelegramBot](https://github.com/itgoyo/TelegramBot)
-
-
-#### 联系 Telegram 官方/客服:
-
-* App→设置→帮助与反馈
-* 客服页面: https://telegram.org/support
-* 官方 Twitter: https://twitter.com/telegram
-* 登陆问题, 找Twitter: https://twitter.com/smstelegram
-* 官方FAQ: https://telegra.ph/Common-Login-Problems-03-12
-* 发邮件给官方: 
-    login@telegram.org
-    login@stel.com
-    recover@telegram.org
-    abuse@telegram.org
-* Telegram 客户端反馈群:
-    iOS - @tgiostests
-    macOS - @macswift
-    Desktop - @TelegramDesktopTalk
-
-**申诉反馈模板1:**
-
-主题: Please recover my Telegram account
-
-内容: 
-Dear Telegram Support Team,I am writing to appeal the recent ban on my Telegram account. I understand that my account has been blocked for violating the terms of service, but I would like to explain the circumstances surrounding this situation.
-
-I can assure you that my actions were not intentional and I did not have any malicious intent. I understand the importance of following the rules and regulations set by Telegram, and I regret any actions that may have led to my account being banned.
-
-I would be grateful if you could consider lifting the ban on my account. I have a strong passion for using Telegram and I have used it for many years to communicate with friends and family. Losing access to my account would have a significant impact on my daily life.
-
-Thank you for taking the time to consider my appeal. I look forward to hearing back from you and hopefully having my account reinstated.
-
-My mobile number is xxxx
-
-**申诉反馈模板2:**
-
-内容: 
-My Telegram account was banned a long time, i think Anti-Spam system triggered wrong action, its mistake that account was banned. Now i have again got access, but still I'm limited to anything. It's wrong & false triggered action i should say. 
-
-I have been a loyal to Telegram & even contributed to better Telegram.
-
-I am requesting for removal of account limitations.
-
->>提醒:
-申诉后，官方会核查你的账户，并根据情况恢复你的账户，但不一定就能解封！
-有人申诉后解封了，有人申诉了多次也未解封，不能一概而论！
-
-#### Telegram电报官方
-
-| 名字                  | 链接                                                                 | 功能描述                                   |
-| :-------------------- | :------------------------------------------------------------------: | :---------------------------------------- |
-| Spam Info Bot         | [@SpamBot](https://t.me/SpamBot/)                                   | Telegram账号问题处理，账号申诉             |
-| BotFather             | [@BotFather](https://t.me/BotFather/)                               | 创建机器人，管理机器人                     |
-| Stickers              | [@Stickers](https://t.me/Stickers/)                                 | 创建贴纸包，管理贴纸                       |
-| Telegraph             | [@Telegraph](https://t.me/Telegraph/)                               | 创建并管理Telegraph文章                    |
-| Premium Bot           | [@PremiumBot](https://t.me/PremiumBot/)                             | Telegram会员官方购买机器人                 |
-| Wallet                | [@wallet](https://t.me/wallet/)                                     | Telegram官方钱包机器人                     |
-| Previews              | [@previews](https://t.me/previews/)                                 | Telegram即时预览反馈机器人                 |
-| MTProxy Admin Bot     | [@MTProxybot](https://t.me/MTProxybot/)                             | 创建并管理Telegram MTProxy                 |
-| Transparency Reports  | [@transparency](https://t.me/transparency/)                         | Telegram向政府透露的数据统计               |
-| Webpage Bot           | [@WebpageBot](https://t.me/WebpageBot/)                             | 链接预览更新机器人                         |
-| Verify Bot            | [@VerifyBot](https://t.me/VerifyBot/)                               | 认证你的Telegram频道、群组和机器人         |
-| Username Bot          | [@username_bot](https://t.me/username_bot/)                         | 通过权威认证获取被占用的用户名             |
-| Fragment Auction Alerts | [@fragment](https://t.me/fragment/)                               | Fragment拍卖通知机器人                     |
-
-#### 群组管理
-
-视频教程：[https://youtu.be/R_14BCtvqPM](https://youtu.be/R_14BCtvqPM)
-
-| 名字                  | 链接                                                                 | 功能描述                                   |
-| :-------------------- | :------------------------------------------------------------------: | :---------------------------------------- |
-| 按钮机器人                | [@buttonfree_bot](https://t.me/buttonfree_bot/)                 | 轻松给你的帖子加上各种按钮，永久免费试用         |
-| nmBot                 | [@nmnmfunbot](https://t.me/nmnmfunbot/)                             | 柠动聊天，好戏连篇(简称尼玛机器人)         |
-| Group Help            | [@GroupHelpBot](https://t.me/GroupHelpBot/)                         | 轻松管理你的群组                           |
-| Rose                  | [@MissRose_bot](https://t.me/MissRose_bot/)                         | 实用的Telegram群组管理机器人               |
-| KinhRoBot             | [@KinhRoBot](https://t.me/KinhRoBot/)                               | 超多功能的群管机器人                       |
-| Policr Mini           | [@policr_mini_bot](https://t.me/policr_mini_bot/)                   | 功能简化、全新设计的Policr迷你版           |
-| 呆呆兽                | [@KeDuckBot](https://t.me/KeDuckBot/)                               | 呆呆兽群管机器人                           |
-| 方丈机器人            | [@fangzhang_bot](https://t.me/fangzhang_bot/)                       | 方丈群组管理机器人                         |
-| 阿福                  | [@afoolrobot](https://t.me/afoolrobot/)                             | 阿福支持克隆，自动回复，广告过滤等         |
-| Telegram Watchdog     | [@WatchdogVerifyBot](https://t.me/WatchdogVerifyBot/)               | 看门狗机器人，提供入群验证                 |
-| 反频道马甲Bot         | [@AntiChannelSpammersBot](https://t.me/AntiChannelSpammersBot/)     | 自动删除群成员以频道身份发送的消息         |
-| NoAdsBot              | [@autodeletead_bot](https://t.me/autodeletead_bot/)                 | 自动删除群组中的广告消息                   |
-| 查特皮皮鸡            | [@ZUOLUOTV_AI_BOT](https://t.me/ZUOLUOTV_AI_BOT/)                   | 基于OpenAI和Google Cloud AI Platform的反垃圾机器人 |
-| We Group Bot          | [@WeGroupRobot](https://t.me/WeGroupRobot/)                         | 多功能的群组管理机器人                     |
-| 自定义问题加群验证      | [@policr_bot](https://t.me/policr_bot)       | 加群验证,用户可以自定义问题  |
-| CaptchatBot           | [@Captchat_Bot](https://t.me/Captchat_Bot/)                         | 新成员验证码机器人，避免广告骚扰           |
-| The Join Captcha Bot  | [@join_captcha_bot](https://t.me/join_captcha_bot/)                 | 入群验证机器人                             |
-| Approve By Poll       | [@KimmyXYC_Approve_By_Poll_bot](https://t.me/KimmyXYC_Approve_By_Poll_bot/) | 通过投票决定是否同意新成员的入群申请       |
-| Cleaning Toolbox      | [@CleaningToolboxBot](https://t.me/CleaningToolboxBot/)             | 自动踢出所有群组成员                       |
-
-#### 频道分析
-
-| 名字                  | 链接                                                                 | 功能描述                                   |
-| :-------------------- | :------------------------------------------------------------------: | :---------------------------------------- |
-| Channel Help          | [@chelpbot](https://t.me/chelpbot/)                                 | 轻松管理频道，定时发布帖子                 |
-| LikeBot               | [@like](https://t.me/like/)                                         | 为频道帖子创建表情回应按钮                 |
-| DiscussBot            | [@discussbot](https://t.me/discussbot/)                             | 为频道所有帖子添加评论按钮                 |
-| React Bot             | [@ReactBot](https://t.me/ReactBot/)                                 | 为频道帖子添加表情回应和评论               |
-| Telegram Analytics Bot| [@tg_analytics_bot](https://t.me/tg_analytics_bot/)                 | Telegram统计分析机器人                     |
-| Telemetrio            | [@telemetr_io_bot](https://t.me/telemetr_io_bot/)                   | Telemetrio官方机器人                       |
-| TGStat Bot            | [@TGStat_Bot](https://t.me/TGStat_Bot/)                             | TGStat数据分析机器人                       |
-| Combot                | [@combot](https://t.me/combot/)                                     | Telegram 群组的最佳社区管理服务。管理、分析、触发器等 |
-
-#### TG中文群组索引机器人bot
-| 名字     | 链接 | 功能描述     |
-| :---        |    :----:   |          :--- |
-|SOSO|[@soso](https://t.me/sosoo?start=a_7202424896)|群组搜索机器人🔍，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。|
-| 极搜JiSo | [@jiso](https://t.me/jiso?start=a_7202424896)  | 群组搜索机器人🔍，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。|
-| 极搜JiSou     | [@jisou](https://t.me/jisou2bot?start=a_7202424896)  | 群组搜索机器人🔍，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。  |
-| ikuaiso     | [@ikuaisobot](https://t.me/ikuaisobot?start=)  | 帮你找到有趣的群、频道、视频、音乐、电影、新闻！ |
-| aiso搜索机器人     | [@aiso](https://t.me/aiso?start=telegram_7202424896)  | 查找群组、频道、影视、音乐或机器人。  |
-| 神马索引机器人      | [@smss](https://t.me/smss?start=spread_7202424896)       | 神马索引机器人，可以通过关键词查找  |
-| 中文索引   | [@TeleTop123Bot](https://t.me/TeleTop123Bot?start=7202424896)        | 帮助您找到感兴趣的群组、频道和机器人！      |
-| TON索引  | [TonCnBot](https://t.me/TonCnBot?start=7202424896)       | 帮助您找到感兴趣的群组、频道和机器人！  |
-
-
-#### 群组抽奖机器人
-| 名字     | 链接 | 功能描述     |
-| :---        |    :----:   |          :--- |
-| 抽奖助手机器人      | [@tgLotteryBot](https://t.me/tgLotteryBot)       | 抽奖助手机器人  |
-| 抽奖助手机器人      | [@LotteryHelperBot](https://t.me/LotteryHelperBot)       | 抽奖助手机器人  |
-| 幸运抽奖助手   | [@Grinx_bot](https://t.me/Grinx_bot)        | 幸运抽奖助手      |
-| 抽奖机器人      | [@fengdrawbot](https://t.me/fengdrawbot)       | 抽奖机器人  |
-| Telegram 抽奖助手      | [@cnLottery_bot](https://t.me/cnLottery_bot)       | Telegram 抽奖助手  |
-| Telegram 抽奖活动导航 | [@Lottery_home](https://t.me/Lottery_home) | 想白嫖的推荐关注，想推广群组的在自己群使用bot创建抽奖后可以选择是否推荐到这个频道。 |
-
-#### 协助管理群组机器人验证
-| 名字     | 链接 | 功能描述     |
-| :---        |    :----:   |          :--- |
-| 按钮机器人      | [@xiunvanniubot](https://t.me/xiunvanniubot)       | 轻松实现按钮广告，方便引流推广挣钱，[视频教程](https://www.youtube.com/watch?v=B3KePS-6bSc)  |
-| 验证机器人      | [@P4CaptchaBot](https://t.me/P4CaptchaBot)       | 验证机器人，四个汉字验证码  |
-| 验证机器人      | [@group_confirmation_bot](https://t.me/group_confirmation_bot)       | 验证机器人，四个汉字验证码  |
-| 加群验证,杀广告   | [@tgcnjoincaptchabot](https://t.me/tgcnjoincaptchabot)        | 加群验证,杀广告      |
-| reCAPTCHA 验证码      | [@TGreCAPTCHABot](https://t.me/TGreCAPTCHABot)       | 给 Telegram 群组用的 reCAPTCHA 验证码  |
-| 加群验证码      | [@jqs7zweibot](https://t.me/jqs7zweibot)       | 加群验证码  |
-| 自定义问题加群验证      | [@policr_bot](https://t.me/policr_bot)       | 加群验证,用户可以自定义问题  |
-| 欢迎消息，消息自毁，进群验证      | [@FengDoorBot](https://t.me/FengDoorBot)       | 欢迎消息，消息自毁，进群验证  |
-| 进群验证问题   | [@orgrobot](https://t.me/orgrobot)        | 进群验证问题,群管可自定义验证问题,以后可能收费      |
-| 谷歌人机验证      | [@fuckuspambot](https://t.me/fuckuspambot)       | 过滤机器人已经支持入群的时候使用谷歌人机验证了。  |
-| 入群验证bot      | [@shieldy_bot](https://t.me/shieldy_bot)       | 入群验证bot  |
-| 加减法运算入群验证   | [@toorucaptchabot](https://t.me/toorucaptchabot)        | 一个简单的加减法运算入群验证机器人      |
-
-#### 欢迎
-| 名字     | 链接 | 功能描述     |
-| :---        |    :----:   |          :--- |
-| 欢迎机器人      | [@RealApolloBot](https://t.me/RealApolloBot)       | 欢迎机器人  |
-| 欢迎机器人      | [@WTFisBot](https://t.me/WTFisBot)       | 欢迎机器人  |
-| 欢迎机器人   | [@jh0ker_welcomebot](https://t.me/jh0ker_welcomebot)        | 欢迎机器人      |
-
-#### 广告拦截
-| 名字     | 链接 | 功能描述     |
-| :---        |    :----:   |          :--- |
-| 长名广告专杀      | [@adnamekillerbot](https://t.me/adnamekillerbot)       | 长名广告专杀  |
-| 限制新群员      | [@AutoRestrictBot](https://t.me/AutoRestrictBot)       | 限制新群员  |
-| 删除进出群消息   | [@AntiServiceMessageBot](https://t.me/AntiServiceMessageBot)        | I remove join/leave messages in groups and supergroups.      |
-
-#### 看门
-| 名字     | 链接 | 功能描述     |
-| :---        |    :----:   |          :--- |
-| 看门机器人      | [@WatchDoorBot](https://t.me/WatchDoorBot)       | 可禁止发送指定类型的信息,用于避免恶意举报,官方地址https://hackmd.io/s/BkwAIgrL7  |
-
-#### 昵称
-| 名字     | 链接 | 功能描述     |
-| :---        |    :----:   |          :--- |
-| 忘记设置username提醒      | [@UNameBot](https://t.me/UNameBot)       | 在使用者忘記設定 username 時發送提醒訊息  |
-| 监控名字更改记录      | [@SangMata_BOT](https://t.me/SangMata_BOT)       | 放入群组可以监控群里用户名字更改记录  |
-
-#### 骂人
-| 名字     | 链接 | 功能描述     |
-| :---        |    :----:   |          :--- |
-| 骂人机器人      | [@the_jbot](https://t.me/the_jbot)       | 骂人机器人  |
-
 #### 下载机器人
 | 名字               | 链接                                           | 功能描述                                   |
 | :---               | :----:                                         | :---                                       |
@@ -693,6 +402,295 @@ I am requesting for removal of account limitations.
 | Data Science,ML & AI Nugget Chats | https://t.me/DatascienceChats | Discussion community for DS... |
 | Data Science, Machine Learning, AI & IOT | https://t.me/KDnuggets | Posts from world's largest ... |
 
+| 名字       | 链接                                                                 | 功能描述                                   |
+| :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
+| 币圈必备学习资料   | [awesome-crypto](https://github.com/itgoyo/awesome-crypto)          | 💰财务自由必备币圈导航，没有钱包的建议先申请一个交易所钱包、个人比较推荐[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.chouyi.pro/zh-hans/join/50253981)，币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)   |
+| WEB3撸空投  | [@tglukongtou](https://t.me/tglukongtou)             | 致力于为您提供每日更新的加密货币空投项目信息、保姆级撸空投教程、钱包安全指南与行业动态。空投官网：[web3.0xnav.com](web3.0xnav.com) twitter：[https://x.com/crypto_bxs](https://x.com/crypto_bxs) |
+| 加密货币交流群  | [@jmhbgroup](https://t.me/jmhbgroup)             | 一起交流加密货币相关内容，官网：[www.0xnav.com](www.0xnav.com)   |
+| 🚀免费节点   | [https://vpnnav.github.io](https://vpnnav.github.io)               | 每天整点准时更新免费高速节点 |
+| 🌈彩虹群发器   | [https://shop.tg10000.com/buy/1](https://shop.tg10000.com/buy/1)            | 快速高效的消息群发工具，支持多账号切换，适合营销推广  |
+| 波场TRX靓号购买789A便宜出   | [https://shop.tg10000.com](https://shop.tg10000.com/)            | 波场靓号地址789A、顺子豹子靓号，为了钱包安全记得要多签  |
+| 免费频道搬运机器人   |免费机器人[@xnby003bot](https://t.me/xnby003bot)            | 搭建同款机器人[@tgxiunv](https://t.me/tgxiunv) 👉 [使用教程](https://www.youtube.com/watch?v=rV6vIMFTAPA)，支持频道1比1搬运，频道备份、频道模仿，破解私密频道限制下载转发搬运，频道涨粉神器💰 可文末添加自定义广告按钮，替换指定文本内容，搭建历史成交记录[@banyunchanel] |(https://t.me/banyunchanel) 不会使用可以找[@tgxiunv](https://t.me/tgxiunv)帮搬运，10U/一个频道 |
+| 超级索引官方搜索群   | [https://t.me/+kt8DCh74ZmA0ZTc9](https://t.me/+kt8DCh74ZmA0ZTc9)            | 老牌搜索机器人，可以在里面搜索你想要的一切   |
+| 搜索群①   | [@sousuo20w](https://t.me/sousuo20w)            | 可以在里面搜索你想要的一切   |
+| 搜索群②   | [@jiso5173](https://t.me/jiso5173)            | 可以在里面搜索你想要的一切   |
+| 搜索群③   | [@jisoubar](https://t.me/jisoubar)            | 极搜吧可以在里面搜索你想要的一切   |
+| 搜索群④   | [@sepiansousuo](https://t.me/sepiansousuo)            | 可以在里面搜索你想要的一切   |
+| 搜索群⑤   | [@kuaisou20w](https://t.me/kuaisou20w)            | 可以在里面搜索你想要的一切   |
+| 色色搜索   | [@sesecctv](https://t.me/sesecctv)            | 可以在里面搜索你想要的一切   |
+| 👚AI去衣机器人	| [@Xai1314bot](https://t.me/Xai1314bot?start=U0HSDEJM1525Y3AF)| 	黑科技ai智能机器人，一键去衣换装换脸/视频换脸采用最新ai模型无需建模| 
+| 🍉 吃瓜无限 | [https://t.me/chiguawuxian](https://t.me/chiguawuxian) | 实时分享全网第一个热瓜      |
+| Telegram电报僵尸粉                             | [@tgxiunv](https://t.me/tgxiunv)          | 1000人/¥10(1.4U)，稳定30天不掉落，可以使用[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.chouyi.pro/zh-hans/join/50253981)等交易所红包，无手续费  |
+| 免费亚马逊云服务器 | [https://aws.amazon.com](https://aws.amazon.com/cn/free?trk=cae7b666-a896-474c-81fa-96c8aa124afd&sc_channel=sm) | 免费试用一年高速云服务器，[biliup](https://www.bilibili.com/video/BV1XqHkzCEpN/)可实现自动录制全网直播    |
+
+### 曝光不良频道，请勿轻信(Scammer)
+| 名字       | 链接                                                                 | 功能描述                                   |
+| :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
+|景福宫高端商务|[https://t.me/+7hOI03rX7YVmOWVl](https://t.me/+7hOI03rX7YVmOWVl)|真实性不清楚，请勿轻信上当|
+| 微信同城交友 | [https://t.me/+ZTtVz1cWzxEzYzVk](https://t.me/+ZTtVz1cWzxEzYzVk)|  骗子(Scammer)    |
+| 反差 | [https://t.me/+JDUoBJ5yrFs1MjQ8](https://t.me/+JDUoBJ5yrFs1MjQ8)|  骗子(Scammer)    |
+| 天天约 | [https://t.me/+_yvm-dKJM7U2MDU0](https://t.me/+_yvm-dKJM7U2MDU0)|  骗子(Scammer)    |
+| 匿名配对 | [https://t.me/+cK8sJ83ib1M2M2Zi](https://t.me/+cK8sJ83ib1M2M2Zi)|  骗子(Scammer)    |
+| 美女集中营 | [https://t.me/+qtnO1Cqjcjo5ZTU0](https://t.me/+qtnO1Cqjcjo5ZTU0)|  骗子(Scammer)    |
+| 万人骑 | [https://t.me/+Igb0DxrXmrIxNTFk](https://t.me/+Igb0DxrXmrIxNTFk)|  骗子(Scammer)    |
+| 每日大赛 | [https://t.me/+0ns42wc9C8g2MmY0](https://t.me/+0ns42wc9C8g2MmY0)|  骗子(Scammer)    |
+| 女大学生 | [https://t.me/+nkz2J9UO3shjMDI0](https://t.me/+nkz2J9UO3shjMDI0)|  骗子(Scammer)    |
+| 培训基地 | [https://t.me/+JV_e00siA6A5NzE0](https://t.me/+JV_e00siA6A5NzE0)|  骗子(Scammer)    |
+| 匿名配对 | [https://t.me/+LpD7-7rV3LxjZWRk](https://t.me/+LpD7-7rV3LxjZWRk)|  骗子(Scammer)    |
+| 红杏出墙 | [https://t.me/+SsGBTah77zNkYTRk](https://t.me/+SsGBTah77zNkYTRk)|  骗子(Scammer)    |
+
+### 机场节点推荐
+| 名字        |                                  链接                                 | 功能描述                                          |
+| :-------- | :-----------------------------------------------------------------: | :-------------------------------------------- |
+| 狗狗加速      |       [注册链接](https://www.dginv.click/#/register?code=ZyMzTvB7)      | 集群负载均衡，不限速，无审计，高速专线，Hysteria2协议，解锁流媒体及ChatGPT |
+| 耐思云       |  [注册链接](https://9haclbv160tudxwi.nc18.top/#/register?code=CwIEuyNf) | 初级套餐￥12/月，50GB流量，支持3设备，国内中转优化，流媒体与ChatGPT加速   |
+| 600mlh矿泉水 |         [注册链接](https://02d.600mlh.cc/register?code=xbKVzcN5)        | 节点30+，覆盖港澳台、日韩、新加坡、欧美等地区                      |
+| River VPN |    [注册链接](https://v5w6x7.river-vpn.ink/#/register?code=wJBT57t1)    | 全解锁全球视频网站、ChatGPT、Telegram、YouTube            |
+| FlyBit    |       [注册链接](https://www.flybit3.vip/#/register?code=PCRCZ7uE)      | 月付10起，100GB/月，设备不限，解锁流媒体和ChatGPT，支持SS协议       |
+| SuperBiu  |        [注册链接](https://superbiu.com/#/register?code=A2Qhd5vz)        | ￥9/月，50GB流量，IPLC传输，支持流媒体/GPT，限大陆个人使用          |
+| CAC Apex  |       [注册链接](https://www.cacapex.com/#/register?code=zEtWBeYg)      | 月付¥4.9，500GB流量，3000Mbps，流媒体与ChatGPT解锁         |
+| 老猫云       |        [注册链接](https://laomao.biz?path=register&code=JGCKGHWa)       | Trojan协议+IEPL专线，最高1000Mbps，50+节点              |
+| 放心云       |      [注册链接](https://web1.wowfxy.com/#/register?code=Z0i3YPhk)      | 1000Mbps不限速，全解锁流媒体，3天免费试用                     |
+| 易连VPN     |         [注册链接](https://easylink.bar/register?code=1oqy2e26)         | 永久无限流量，1000Mbps不限速，解锁流媒体与ChatGPT，3天试用         |
+| 狗狗云       | [注册链接](https://www.gougouvpn.top/index.php#/register?code=HnqZeoHA) | 老牌公益VPN，稳定品质                                  |
+| 起帆        |         [注册链接](https://www.qf1.us/#/register?code=ziz13huH)         | 首家支持Hysteria协议，高速8K视频，解锁ChatGPT和流媒体           |
+| Tomcat    |        [注册链接](https://teacat.cloud/#/register?code=wcln0rZa)        | 12元50GB，性价比选择                                 |
+| 飞兔云       |   [注册链接](https://xn--9kq10e0y7h.site/index.html?register=eA38wttl)  | 60+国家节点，全中转，高速稳定，解锁流媒体和ChatGPT                |
+| 淘气兔       |     [注册链接](https://www.taoqitu.me/index.html?register=1ab3e6wq)     | 全中转线路，4K秒开，解锁流媒体/ChatGPT                      |
+| FreeCloud |           [注册链接](https://asus.im/#/register?code=gzE3PgDa)          | 按流量计费不限时，解锁流媒体                                |
+| 红杏加速器     |      [注册链接](https://hongxingyun.xyz/web/#/login?code=wbzHC0lN)      | 高速稳定VPN                                       |
+| FSCloud   |      [注册链接](https://dash.996cloud.top/#/register?code=14lShPOs)     | 1元100G，超高性价比                                  |
+| 烤肠云       |     [注册链接](https://reborn.kaochang.ltd/#/register?code=WE8qrNPG)    | 1元2G测试套餐                                      |
+| M78星云     |        [注册链接](https://m78star.cloud/#/register?code=MLBEu8Zi)       | 高端IEPL/IPLC线路，赠送Emby，解锁流媒体与ChatGPT            |
+| OKCLOUD机场 |        [注册链接](https://okokcloud.top/#/register?code=vZRXNDss)       | 稳定高速SS/SSR节点，7天试用，解锁Netflix/HBO等              |
+| 魔戒        |         [注册链接](https://mojie.info/#/register?code=vv0sB50W)         | 性价比高，Trojan和Vmess协议，流量包不限时                    |
+| MDSSCLOUD |         [注册链接](https://mojie.info/#/register?code=vv0sB50W)         | IEPL/CC/BGP专线，最高3000Mbps，强大SLA保证              |
+| 尼尔云       |        [注册链接](https://niercloud.com/#/register?code=rmfG8Tfl)       | ¥15/月，115GB流量                                 |
+| 青云梯机场     |     [注册链接](https://qytaffcc01.qytaff.pro/register?aff=3kRr38Lo)     | 支持解锁Netflix、Disney+、ChatGPT，覆盖多国节点            |
+| 飞天猪       |  [注册链接](https://ftzaffcom01.fliggyaff.xyz/#/register?code=33L67N5N) | Trojan协议，IEPL专线，3000Mbps，支持流媒体/ChatGPT        |
+| v2lnk     |  [注册链接](https://ftzaffcom01.fliggyaff.xyz/#/register?code=33L67N5N) | 免费试用，一键连接，解锁GPT                               |
+| NiceDuck  |        [注册链接](https://my.niceduck.io/register?code=b5QXpg3C)        | 高SLA，支持流媒体/ChatGPT，赠送3家Emby资源                 |
+| Hostbrr   |        [注册链接](https://my.hostbrr.com/order/forms/a/NDc5NA==)        | 大硬盘存储VPS，Hetzner德国机房                          |
+| BuyVM     |        [注册链接](https://my.hostbrr.com/order/forms/a/NDc5NA==)        | 高性价比VPS，机房覆盖卢森堡/美国多个城市                        |
+| RackBerd  |           [注册链接](https://my.racknerd.com/aff.php?aff=6211)          | VPS主机，7个美国机房可选，成立于2019年                       |
+
+### 交易所提币或者是购买USDT、币圈撸空投
+**❗❗️️❗一旦注册完成就不再会有永久减免的机会，注册时务必使用邀请码❗️❗️❗️**
+
+**❗❗️️❗别用乱用网上的钱包接收款项，只有交易所里面的钱才不存在黑钱黑U❗️❗️❗️**
+| 名字     | 链接 | 功能描述     |
+| :---        |    :----:   |          :--- |
+| 币安    |   [https://www.binance.com](https://accounts.binance.com/zh-CN/register?ref=FANXIAN)   | 邀请码：**FANXIAN**，币安交易所(持有bnb减免40%手续费)币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[币安刷Alpha积分视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)|
+| 欧易OKX    |   [https://www.okx.com](https://www.chouyi.pro/zh-hans/join/50253981)   |      欧易交易所(减免30%手续费)邀请码：**50253981** ，OKX Boost(20%减免手续费)邀请码：**ZHUANMI**|
+| ByBit    |   [https://www.bybit.com](https://www.bybit.com/invite?ref=4VLKDMW)   |      ByBit交易所(减免30%手续费)邀请码：**4VLKDMW**|
+| Bitget    |   [https://www.bitget.com](https://www.bitget.org/zh-CN/referral/register?clacCode=QR4A7MPY&from=%2Fzh-CN%2Fevents%2Freferral-all-program&source=events&utmSource=PremierInviter)   |      Bitget交易所(减免40%手续费)邀请码：**QR4A7MPY**|
+| Gate.io    |   [https://www.gatesee.com](https://www.gatesee.com/signup/VLDFUFEOAW?ref_type=103)   |     Gate.io交易所(减免40%手续费)邀请码：**VLDFUFEOAW**|
+| 火币    |   [https://www.htx.com](https://www.htx.com.de/zh-cn/v/register/double-invite/?invite_code=xpi6a223&inviter_id=11346560)   |      火币交易所(减免30%手续费)邀请码：**xpi6a223**|
+| 抹茶    |   [https://www.mexc.co](https://promote.mexc.com/r/wIE7fPvG)   |      抹茶交易所(减免40%手续费)邀请码：**wIE7fPvG**|
+
+### 2. TelegramX
+
+- [TelegramX 官方下载](https://play.google.com/store/apps/details?id=org.thunderdog.challegram)
+- [TelegramX 安卓下载（免 Google Play）](https://telegram-x.cn.uptodown.com/android)
+
+### 3. 接码平台
+
+- [SMS 接码平台](https://sms-activate.guru/?ref=2695392)
+
+### 4. Giffgaff 手机卡
+
+### Telegram API申请(申请不了的话,可代申请:5U/¥30) [@tgxiunv](https://t.me/tgxiunv)
+
+官网申请API: https://my.telegram.org/auth?to=apps
+
+| Field         | Value                                    |
+|---------------|------------------------------------------|
+| App api_id    | 23862859                                 |
+| App api_hash  | 9fc6cfff12d0763xxx1125ddb46602a          |
+| App title     | zhuanfabotsxxx                              |
+| Short name    | zhuanfabotsxxx                              |
+
+### Telegram钱包|虚拟信用卡
+| 名字     | 链接 | 功能描述     |
+| :---        |    :----:   |          :--- |
+| wallet       |   [@wallet](https://t.me/wallet)  | Telegram官方钱包，支持比特币、USDT和TON的应用内支付|
+| okpay      | [@OkayPayBot](https://t.me/OkayPayBot?start=creditCardInvite--7202424896)       |可用于店租（Amazon、Shopify、Shope等）、广告（Facebook、Google等）、云服务、游戏、开发者应用、海淘购物等全场景支付。|
+
+### 常用机器人
+
+🔥Telegram专门的机器人合集🔥：[https://github.com/itgoyo/TelegramBot](https://github.com/itgoyo/TelegramBot)
+
+
+#### 联系 Telegram 官方/客服:
+
+* App→设置→帮助与反馈
+* 客服页面: https://telegram.org/support
+* 官方 Twitter: https://twitter.com/telegram
+* 登陆问题, 找Twitter: https://twitter.com/smstelegram
+* 官方FAQ: https://telegra.ph/Common-Login-Problems-03-12
+* 发邮件给官方: 
+    login@telegram.org
+    login@stel.com
+    recover@telegram.org
+    abuse@telegram.org
+* Telegram 客户端反馈群:
+    iOS - @tgiostests
+    macOS - @macswift
+    Desktop - @TelegramDesktopTalk
+
+**申诉反馈模板1:**
+
+主题: Please recover my Telegram account
+
+内容: 
+Dear Telegram Support Team,I am writing to appeal the recent ban on my Telegram account. I understand that my account has been blocked for violating the terms of service, but I would like to explain the circumstances surrounding this situation.
+
+I can assure you that my actions were not intentional and I did not have any malicious intent. I understand the importance of following the rules and regulations set by Telegram, and I regret any actions that may have led to my account being banned.
+
+I would be grateful if you could consider lifting the ban on my account. I have a strong passion for using Telegram and I have used it for many years to communicate with friends and family. Losing access to my account would have a significant impact on my daily life.
+
+Thank you for taking the time to consider my appeal. I look forward to hearing back from you and hopefully having my account reinstated.
+
+My mobile number is xxxx
+
+**申诉反馈模板2:**
+
+内容: 
+My Telegram account was banned a long time, i think Anti-Spam system triggered wrong action, its mistake that account was banned. Now i have again got access, but still I'm limited to anything. It's wrong & false triggered action i should say. 
+
+I have been a loyal to Telegram & even contributed to better Telegram.
+
+I am requesting for removal of account limitations.
+
+>>提醒:
+申诉后，官方会核查你的账户，并根据情况恢复你的账户，但不一定就能解封！
+有人申诉后解封了，有人申诉了多次也未解封，不能一概而论！
+
+#### Telegram电报官方
+
+| 名字                  | 链接                                                                 | 功能描述                                   |
+| :-------------------- | :------------------------------------------------------------------: | :---------------------------------------- |
+| Spam Info Bot         | [@SpamBot](https://t.me/SpamBot/)                                   | Telegram账号问题处理，账号申诉             |
+| BotFather             | [@BotFather](https://t.me/BotFather/)                               | 创建机器人，管理机器人                     |
+| Stickers              | [@Stickers](https://t.me/Stickers/)                                 | 创建贴纸包，管理贴纸                       |
+| Telegraph             | [@Telegraph](https://t.me/Telegraph/)                               | 创建并管理Telegraph文章                    |
+| Premium Bot           | [@PremiumBot](https://t.me/PremiumBot/)                             | Telegram会员官方购买机器人                 |
+| Wallet                | [@wallet](https://t.me/wallet/)                                     | Telegram官方钱包机器人                     |
+| Previews              | [@previews](https://t.me/previews/)                                 | Telegram即时预览反馈机器人                 |
+| MTProxy Admin Bot     | [@MTProxybot](https://t.me/MTProxybot/)                             | 创建并管理Telegram MTProxy                 |
+| Transparency Reports  | [@transparency](https://t.me/transparency/)                         | Telegram向政府透露的数据统计               |
+| Webpage Bot           | [@WebpageBot](https://t.me/WebpageBot/)                             | 链接预览更新机器人                         |
+| Verify Bot            | [@VerifyBot](https://t.me/VerifyBot/)                               | 认证你的Telegram频道、群组和机器人         |
+| Username Bot          | [@username_bot](https://t.me/username_bot/)                         | 通过权威认证获取被占用的用户名             |
+| Fragment Auction Alerts | [@fragment](https://t.me/fragment/)                               | Fragment拍卖通知机器人                     |
+
+#### 群组管理
+
+视频教程：[https://youtu.be/R_14BCtvqPM](https://youtu.be/R_14BCtvqPM)
+
+| 名字                  | 链接                                                                 | 功能描述                                   |
+| :-------------------- | :------------------------------------------------------------------: | :---------------------------------------- |
+| 按钮机器人                | [@buttonfree_bot](https://t.me/buttonfree_bot/)                 | 轻松给你的帖子加上各种按钮，永久免费试用         |
+| nmBot                 | [@nmnmfunbot](https://t.me/nmnmfunbot/)                             | 柠动聊天，好戏连篇(简称尼玛机器人)         |
+| Group Help            | [@GroupHelpBot](https://t.me/GroupHelpBot/)                         | 轻松管理你的群组                           |
+| Rose                  | [@MissRose_bot](https://t.me/MissRose_bot/)                         | 实用的Telegram群组管理机器人               |
+| KinhRoBot             | [@KinhRoBot](https://t.me/KinhRoBot/)                               | 超多功能的群管机器人                       |
+| Policr Mini           | [@policr_mini_bot](https://t.me/policr_mini_bot/)                   | 功能简化、全新设计的Policr迷你版           |
+| 呆呆兽                | [@KeDuckBot](https://t.me/KeDuckBot/)                               | 呆呆兽群管机器人                           |
+| 方丈机器人            | [@fangzhang_bot](https://t.me/fangzhang_bot/)                       | 方丈群组管理机器人                         |
+| 阿福                  | [@afoolrobot](https://t.me/afoolrobot/)                             | 阿福支持克隆，自动回复，广告过滤等         |
+| Telegram Watchdog     | [@WatchdogVerifyBot](https://t.me/WatchdogVerifyBot/)               | 看门狗机器人，提供入群验证                 |
+| 反频道马甲Bot         | [@AntiChannelSpammersBot](https://t.me/AntiChannelSpammersBot/)     | 自动删除群成员以频道身份发送的消息         |
+| NoAdsBot              | [@autodeletead_bot](https://t.me/autodeletead_bot/)                 | 自动删除群组中的广告消息                   |
+| 查特皮皮鸡            | [@ZUOLUOTV_AI_BOT](https://t.me/ZUOLUOTV_AI_BOT/)                   | 基于OpenAI和Google Cloud AI Platform的反垃圾机器人 |
+| We Group Bot          | [@WeGroupRobot](https://t.me/WeGroupRobot/)                         | 多功能的群组管理机器人                     |
+| 自定义问题加群验证      | [@policr_bot](https://t.me/policr_bot)       | 加群验证,用户可以自定义问题  |
+| CaptchatBot           | [@Captchat_Bot](https://t.me/Captchat_Bot/)                         | 新成员验证码机器人，避免广告骚扰           |
+| The Join Captcha Bot  | [@join_captcha_bot](https://t.me/join_captcha_bot/)                 | 入群验证机器人                             |
+| Approve By Poll       | [@KimmyXYC_Approve_By_Poll_bot](https://t.me/KimmyXYC_Approve_By_Poll_bot/) | 通过投票决定是否同意新成员的入群申请       |
+| Cleaning Toolbox      | [@CleaningToolboxBot](https://t.me/CleaningToolboxBot/)             | 自动踢出所有群组成员                       |
+
+#### 频道分析
+
+| 名字                  | 链接                                                                 | 功能描述                                   |
+| :-------------------- | :------------------------------------------------------------------: | :---------------------------------------- |
+| Channel Help          | [@chelpbot](https://t.me/chelpbot/)                                 | 轻松管理频道，定时发布帖子                 |
+| LikeBot               | [@like](https://t.me/like/)                                         | 为频道帖子创建表情回应按钮                 |
+| DiscussBot            | [@discussbot](https://t.me/discussbot/)                             | 为频道所有帖子添加评论按钮                 |
+| React Bot             | [@ReactBot](https://t.me/ReactBot/)                                 | 为频道帖子添加表情回应和评论               |
+| Telegram Analytics Bot| [@tg_analytics_bot](https://t.me/tg_analytics_bot/)                 | Telegram统计分析机器人                     |
+| Telemetrio            | [@telemetr_io_bot](https://t.me/telemetr_io_bot/)                   | Telemetrio官方机器人                       |
+| TGStat Bot            | [@TGStat_Bot](https://t.me/TGStat_Bot/)                             | TGStat数据分析机器人                       |
+| Combot                | [@combot](https://t.me/combot/)                                     | Telegram 群组的最佳社区管理服务。管理、分析、触发器等 |
+
+#### TG中文群组索引机器人bot
+| 名字     | 链接 | 功能描述     |
+| :---        |    :----:   |          :--- |
+|SOSO|[@soso](https://t.me/sosoo?start=a_7202424896)|群组搜索机器人🔍，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。|
+| 极搜JiSo | [@jiso](https://t.me/jiso?start=a_7202424896)  | 群组搜索机器人🔍，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。|
+| 极搜JiSou     | [@jisou](https://t.me/jisou2bot?start=a_7202424896)  | 群组搜索机器人🔍，然后BOT提供关键词相关群组的机器人。可以拉到群组使用。  |
+| ikuaiso     | [@ikuaisobot](https://t.me/ikuaisobot?start=)  | 帮你找到有趣的群、频道、视频、音乐、电影、新闻！ |
+| aiso搜索机器人     | [@aiso](https://t.me/aiso?start=telegram_7202424896)  | 查找群组、频道、影视、音乐或机器人。  |
+| 神马索引机器人      | [@smss](https://t.me/smss?start=spread_7202424896)       | 神马索引机器人，可以通过关键词查找  |
+| 中文索引   | [@TeleTop123Bot](https://t.me/TeleTop123Bot?start=7202424896)        | 帮助您找到感兴趣的群组、频道和机器人！      |
+| TON索引  | [TonCnBot](https://t.me/TonCnBot?start=7202424896)       | 帮助您找到感兴趣的群组、频道和机器人！  |
+
+
+#### 群组抽奖机器人
+| 名字     | 链接 | 功能描述     |
+| :---        |    :----:   |          :--- |
+| 抽奖助手机器人      | [@tgLotteryBot](https://t.me/tgLotteryBot)       | 抽奖助手机器人  |
+| 抽奖助手机器人      | [@LotteryHelperBot](https://t.me/LotteryHelperBot)       | 抽奖助手机器人  |
+| 幸运抽奖助手   | [@Grinx_bot](https://t.me/Grinx_bot)        | 幸运抽奖助手      |
+| 抽奖机器人      | [@fengdrawbot](https://t.me/fengdrawbot)       | 抽奖机器人  |
+| Telegram 抽奖助手      | [@cnLottery_bot](https://t.me/cnLottery_bot)       | Telegram 抽奖助手  |
+| Telegram 抽奖活动导航 | [@Lottery_home](https://t.me/Lottery_home) | 想白嫖的推荐关注，想推广群组的在自己群使用bot创建抽奖后可以选择是否推荐到这个频道。 |
+
+#### 协助管理群组机器人验证
+| 名字     | 链接 | 功能描述     |
+| :---        |    :----:   |          :--- |
+| 按钮机器人      | [@xiunvanniubot](https://t.me/xiunvanniubot)       | 轻松实现按钮广告，方便引流推广挣钱，[视频教程](https://www.youtube.com/watch?v=B3KePS-6bSc)  |
+| 验证机器人      | [@P4CaptchaBot](https://t.me/P4CaptchaBot)       | 验证机器人，四个汉字验证码  |
+| 验证机器人      | [@group_confirmation_bot](https://t.me/group_confirmation_bot)       | 验证机器人，四个汉字验证码  |
+| 加群验证,杀广告   | [@tgcnjoincaptchabot](https://t.me/tgcnjoincaptchabot)        | 加群验证,杀广告      |
+| reCAPTCHA 验证码      | [@TGreCAPTCHABot](https://t.me/TGreCAPTCHABot)       | 给 Telegram 群组用的 reCAPTCHA 验证码  |
+| 加群验证码      | [@jqs7zweibot](https://t.me/jqs7zweibot)       | 加群验证码  |
+| 自定义问题加群验证      | [@policr_bot](https://t.me/policr_bot)       | 加群验证,用户可以自定义问题  |
+| 欢迎消息，消息自毁，进群验证      | [@FengDoorBot](https://t.me/FengDoorBot)       | 欢迎消息，消息自毁，进群验证  |
+| 进群验证问题   | [@orgrobot](https://t.me/orgrobot)        | 进群验证问题,群管可自定义验证问题,以后可能收费      |
+| 谷歌人机验证      | [@fuckuspambot](https://t.me/fuckuspambot)       | 过滤机器人已经支持入群的时候使用谷歌人机验证了。  |
+| 入群验证bot      | [@shieldy_bot](https://t.me/shieldy_bot)       | 入群验证bot  |
+| 加减法运算入群验证   | [@toorucaptchabot](https://t.me/toorucaptchabot)        | 一个简单的加减法运算入群验证机器人      |
+
+#### 欢迎
+| 名字     | 链接 | 功能描述     |
+| :---        |    :----:   |          :--- |
+| 欢迎机器人      | [@RealApolloBot](https://t.me/RealApolloBot)       | 欢迎机器人  |
+| 欢迎机器人      | [@WTFisBot](https://t.me/WTFisBot)       | 欢迎机器人  |
+| 欢迎机器人   | [@jh0ker_welcomebot](https://t.me/jh0ker_welcomebot)        | 欢迎机器人      |
+
+#### 广告拦截
+| 名字     | 链接 | 功能描述     |
+| :---        |    :----:   |          :--- |
+| 长名广告专杀      | [@adnamekillerbot](https://t.me/adnamekillerbot)       | 长名广告专杀  |
+| 限制新群员      | [@AutoRestrictBot](https://t.me/AutoRestrictBot)       | 限制新群员  |
+| 删除进出群消息   | [@AntiServiceMessageBot](https://t.me/AntiServiceMessageBot)        | I remove join/leave messages in groups and supergroups.      |
+
+#### 看门
+| 名字     | 链接 | 功能描述     |
+| :---        |    :----:   |          :--- |
+| 看门机器人      | [@WatchDoorBot](https://t.me/WatchDoorBot)       | 可禁止发送指定类型的信息,用于避免恶意举报,官方地址https://hackmd.io/s/BkwAIgrL7  |
+
+#### 昵称
+| 名字     | 链接 | 功能描述     |
+| :---        |    :----:   |          :--- |
+| 忘记设置username提醒      | [@UNameBot](https://t.me/UNameBot)       | 在使用者忘記設定 username 時發送提醒訊息  |
+| 监控名字更改记录      | [@SangMata_BOT](https://t.me/SangMata_BOT)       | 放入群组可以监控群里用户名字更改记录  |
+
+#### 骂人
+| 名字     | 链接 | 功能描述     |
+| :---        |    :----:   |          :--- |
+| 骂人机器人      | [@the_jbot](https://t.me/the_jbot)       | 骂人机器人  |
 
 ### 京豆
 
