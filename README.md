@@ -95,52 +95,6 @@
 | 火币    |   [https://www.htx.com](https://www.htx.com.de/zh-cn/v/register/double-invite/?invite_code=xpi6a223&inviter_id=11346560)   |      火币交易所(减免30%手续费)邀请码：**xpi6a223**|
 | 抹茶    |   [https://www.mexc.co](https://promote.mexc.com/r/wIE7fPvG)   |      抹茶交易所(减免40%手续费)邀请码：**wIE7fPvG**|
 
-![](https://imgur.com/MlRDjeU.png)
-
-## Telegram iOS 苹果版 官方原生客户端进入限制群 (开车群) 的方法
-![](https://i.imgur.com/Ba6epuD.png)
-
-1、三个方式开启:
-
->>方式 a：打开 windows 电脑桌面客户端, 左上角三短线: 设置→隐私安全→开启 ” 显示含有敏感内容的媒体 ”
-
-<img src="https://i.imgur.com/Yl9H4q4.png" width="800" />
-
-Telegram 汉化，解除 +86 限制和 IOS 进屏蔽群以及账号注销等教程
->>方式 b：打开 macOS 苹果电脑桌面客户端: 设置→隐私安全→开启 ” 显示含有敏感内容的媒体 ”
-
->>方式 c：网页版: 手机或电脑浏览器访问网页版地址: https://web.telegram.org/
-
-对话列表→左上角 / 右上角三短线→Settings→打开 ”Show Sensitive Content”.
-
-3、整体的过程就是桌面端或网页版开启显示, 手机端就可以了, 不需要在手机端 APP 设置中操作.
-
-要求:
-
-* Telegram iOS 客户端版本 ≥ 5.13
-
-备注: Windows, macOS, Linux 系统的电脑都可以使用   Telegram Desktop 版本客户端.(macOS 上 Mac App Store 中的 ”Telegram Desktop” 已更名为 ”Telegram Lite”)
-
-## 电报安全隐私设置，新手入门必看
-
-视频参考：https://www.youtube.com/watch?v=eocSf5ZHIUw
-
-## 电报切换中文语言 [@go2cn](https://t.me/go2cn)
-
-视频参考：https://www.youtube.com/watch?v=-Bz9amW-iZQ
-
-## +86 无法接收验证码问题
-
-视频参考：https://www.youtube.com/watch?v=ErfanyyANUI
-
-### 1. 开通国际漫游
-
-| 运营商 | 短信内容 | 发送号码 |
-|--------|----------|----------|
-| **移动**   | 发送“11111” | 10629349125637402 |
-| **电信**   | 发送“11111” | 1068299708 |
-| **联通**   | 发送“11111” | 106829970757 |
-
 ### 2. TelegramX
 
 - [TelegramX 官方下载](https://play.google.com/store/apps/details?id=org.thunderdog.challegram)
