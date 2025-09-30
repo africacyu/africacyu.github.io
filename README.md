@@ -1,14 +1,10 @@
-<!--
- * @Description:
- * @telegram: @africacy
--->
-# Make the most of Telegram / 玩转Telegram / 今天不学习明天被淘汰
+# 今天不学习明天被淘汰 / 玩转Telegram / WEB3
 
 【Telegram Recommendation】
 10,000+ high-quality Telegram groups, channels, and bots — carefully selected to help you explore Telegram with ease.
 <br>
 【Contact for Posting/Removal】
-<a href="https://t.me/africacy">@africacy</a> / <a href="mailto:africacyu@gmail.com">africacyu@gmail.com
+TG <a href="https://t.me/africacy">@africacy</a> / <a href="mailto:africacyu@gmail.com">africacyu@gmail.com
 </a>
 <br>
 【Attention】
