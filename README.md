@@ -3,21 +3,14 @@
  * @telegram: @africacy
 -->
 <div align="center">
-【电报推荐】10000+ 优质Telegram群组、Telegram频道推荐、频道和机器人，精心筛选，让您轻松玩转Telegram。<br>
- <a>Telegram中文频道:</a> <a href="https://t.me/africacy">@africacy</a>  <a>官方网站:</a> <a href="https://www.bitc100.com">https://www.bitc100.com</a>  <a>商务合作:</a> <a href="mailto:africacyu@gmail.com">africacyu@gmail.com</a><br>
- ❗️严禁中国大陆用户使用，请遵守当地法律法规，一切产生的法律问题，均与本项目无关❗️<br><br><br>
+【Telegram荐】10000+ 优质Telegram群组、Telegram频道推荐、频道和机器人，精心筛选，让您轻松玩转Telegram。<br>
+ 有任何问题请联系<a href="https://t.me/africacy">@africacy</a> 邮箱<a href="mailto:africacyu@gmail.com">africacyu@gmail.com</a><br><br>
+ ❗️请遵守当地法律法规，严禁中国大陆用户使用，一切产生的法律问题，均与本项目无关❗️<br><br><br>
 </div>
 
 
 | 名字       | 链接                                                                 | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
-| 极搜JiSo   | [@jiso](https://t.me/jiso?start=a_7202424896)                       | 帮你找到有趣的群、频道、视频、音乐、电影、新闻，例如发送"中文包"，就会自动返回对应的中文包资源 |
-| SOSO机器人  | [@soso](https://t.me/sosoo?start=a_7202424896)                     | 发送关键词来寻找群组、频道或视频，在名字后面添加SOSO，在机器人里面的赚钱可以白嫖0.5USDT          |
-| 超级索引  | [@CJSY](https://t.me/CJSY?start=7202424896)                  | 发送词语即可搜索关联群组与频道资源，老牌搜索机器人超级索引邀请好友，参与五级拉新裂变赢USDT！新人使用直接领取1.88U！！(完成1次有效搜索) 👉[官方搜索群](https://t.me/+kt8DCh74ZmA0ZTc9)，搜索不留任何痕迹，放心搜索，[超级索引大群](https://t.me/+sGP3pPNzsdkxMGM8)    |
-| 极搜JiSou  | [@jisou](https://t.me/jisou?start=a_7202424896)             | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
-| Super搜索       | [@Super](https://t.me/Super?start=ref-7202424896)                | 查找群组、频道、影视、音乐或机器人         |
-| 神马搜索(签到有收益)   | [@smss](https://t.me/smss?start=spread_7202424896)                  | 发送词语即可搜索关联群组与频道资源，连续签到一周送3USDT          |
-| 快搜  | [@kuai](https://t.me/kuai?start=ad_7202424896)             | 发送词语帮你找到有趣的群、频道、视频、音乐、电影、新闻 |
 | 币圈必备学习资料   | [awesome-crypto](https://github.com/itgoyo/awesome-crypto)          | 💰财务自由必备币圈导航，没有钱包的建议先申请一个交易所钱包、个人比较推荐[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.chouyi.pro/zh-hans/join/50253981)，币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)   |
 | WEB3撸空投  | [@tglukongtou](https://t.me/tglukongtou)             | 致力于为您提供每日更新的加密货币空投项目信息、保姆级撸空投教程、钱包安全指南与行业动态。空投官网：[web3.0xnav.com](web3.0xnav.com) twitter：[https://x.com/crypto_bxs](https://x.com/crypto_bxs) |
 | 加密货币交流群  | [@jmhbgroup](https://t.me/jmhbgroup)             | 一起交流加密货币相关内容，官网：[www.0xnav.com](www.0xnav.com)   
@@ -54,11 +47,6 @@
 | 培训基地 | [https://t.me/+JV_e00siA6A5NzE0](https://t.me/+JV_e00siA6A5NzE0)|  骗子(Scammer)    |
 | 匿名配对 | [https://t.me/+LpD7-7rV3LxjZWRk](https://t.me/+LpD7-7rV3LxjZWRk)|  骗子(Scammer)    |
 | 红杏出墙 | [https://t.me/+SsGBTah77zNkYTRk](https://t.me/+SsGBTah77zNkYTRk)|  骗子(Scammer)    |
-
-### 推广50U/月 
-| 名字       | 链接                                                                 | 功能描述                                   |
-| :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
-|debot                             | [@debot](https://debot.ai?ref=240523)          | 实时自动检测各个聪明人钱包的买入和卖出情况   |
 
 ### 机场节点推荐
 | 名字        |                                  链接                                 | 功能描述                                          |
@@ -110,27 +98,6 @@
 | 抹茶    |   [https://www.mexc.co](https://promote.mexc.com/r/wIE7fPvG)   |      抹茶交易所(减免40%手续费)邀请码：**wIE7fPvG**|
 
 ![](https://imgur.com/MlRDjeU.png)
-
-### 机器人搭建有需要联系:[@tgxiunv](https://t.me/tgxiunv)
-| 项目                                       | 说明                                              | 价格            |
-| ------------------------------------------ | ------------------------------------------------- | --------------- |
-| 修女频道搬运                                | 搬运整个频道10U,自行联系[@tgxiunv](https://t.me/tgxiunv) | 10U   |
-| 自动按钮机器人                                | 使用教程:[视频教程](https://www.youtube.com/watch?v=Wa0DL3Lj1Hs)     |    50U          |
- 消息提取机器人(破解私密频道无法下载保存转发神器)                                | 提供源码及搭建服务         | 50U             |
-| tdl                          | 电报下载神器搭建,自行联系[@tgxiunv](https://t.me/tgxiunv)，使用教程:[视频教程](https://www.youtube.com/watch?v=h_r1_I6Busk)| 50U或¥300   |
-| 直播录制软件      | [软件安装教程](https://www.bilibili.com/video/BV1XqHkzCEpN/) | 可实现自动录制全网直播，自动投稿到B站上,不会可以找我帮搭建¥100           |
-| 波场靓号生成器(8a、9a、10a等豹子顺子靓号)                         | 电脑有显卡直接跑，跑出来的速度看显卡 | 100U            |
-| 自动转发频道机器人(涨粉神器)                          | 自动监听搬运别人频道内容,提供源码及搭建服务[@tgxiunv](https://t.me/tgxiunv) | 100U            |
-| 自动转发频道机器人（文末自定义文案）       | 自动搬运别人频道内容并可自定义文案，效果查看：[@alidriver4k](https://t.me/alidriver4k) | 140U            |
-| 频道导航网站      | 效果查看：[tg10000.com](https://tg10000.com) | ¥200    [搭建教程](https://www.bilibili.com/video/BV13b5izgE28)            |
-| 独角数卡网站      | 效果查看：[shop.tg10000.com](https://shop.tg10000.com) | 单网站:¥150，网站+对接支付:¥300或40U，请准备服务器和域名           |
-| 彩虹群发、强拉、炒群破解版(送便宜号商地址)                 |[官网地址](https://qunfaqi.github.io),使用教程:[视频教程](https://www.youtube.com/watch?v=t09ZIz3k-i4),自助购买: [https://shop.tg10000.com/buy/1](https://shop.tg10000.com/buy/1)   | ¥199         |
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://i.imgur.com/9E65XRH.png" alt="彩虹群发器破解版免费" style="width: 30%;"/>
-  <img src="https://i.imgur.com/9MxAREe.png" alt="彩虹群发器破解版" style="width: 30%;"/>
-  <img src="https://i.imgur.com/o32jV8y.png" alt="彩虹群发电报神器" style="width: 30%;"/>
-</div>
-
 
 ## Telegram iOS 苹果版 官方原生客户端进入限制群 (开车群) 的方法
 ![](https://i.imgur.com/Ba6epuD.png)
