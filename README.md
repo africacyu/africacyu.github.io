@@ -2,6 +2,8 @@
  * @Description:
  * @telegram: @africacy
 -->
+# 玩转Telegram / Make the most of Telegram
+
 【Telegram Recommendation】
 10,000+ high-quality Telegram groups, channels, and bots — carefully selected to help you explore Telegram with ease.
 <br>
@@ -9,8 +11,6 @@
 <a href="https://t.me/africacy">@africacy</a> / <a href="mailto:africacyu@gmail.com">africacyu@gmail.com
 </a>
 <br>
-# 玩转Telegram / Make the most of Telegram
-
 【Notice / Attention】
 ❗️Please comply with local laws and regulations. Users in mainland China are strictly prohibited from using this service. All legal issues arising are unrelated to this project.❗️
 
