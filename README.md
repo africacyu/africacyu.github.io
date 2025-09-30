@@ -21,21 +21,21 @@
 ## 资源下载机器人
 | 名字 | 链接 | 功能描述 |
 |-------|--------|------|
-| 网易云音乐下载     | [@Music163bot](https://t.me/Music163bot)       | 支持网易云音乐下载                        |
+| 网易云音乐下载     | [@Music163bot](https://t.me/Music163bot)  | 支持网易云音乐下载 |
 | 抖音 TikTok 视频图集解析 | [@DouYintg_bot](https://t.me/DouYintg_bot)   | 支持抖音、TikTok、X推特、小红书等视频图集解析，支持去水印 |
 | 支持推特、微博、小红书、reddit解析 | [@web2album_bot](https://t.me/web2album_bot) | 支持推特、微博、小红书、reddit解析，支持长截图分割 |
 | B站、抖音、微博等解析 | [@bilibiliparse_bot](https://t.me/bilibiliparse_bot) | 支持B站、抖音、小红书、推特、Ins、油管、TikTok等解析 |
 | 支持多平台解析     | [@douyin_download_bot](https://t.me/douyin_download_bot) | 支持B站、抖音、小红书、推特、Ins、FB、油管等解析 |
-| 多平台解析工具     | [@ParsehubBot](https://t.me/ParsehubBot)     | 支持抖音、B站、油管、TikTok、小红书、推特等解析 |
-| 支持多个平台下载   | [@icbcbot](https://t.me/icbcbot)             | 支持抖音、TikTok、推特、Ins、微博等平台下载 |
-| 妙妙小工具 Beta    | [@GLBetabot](https://t.me/GLBetabot)          | 支持多个平台和网站的下载功能，详细功能见官网 |
-| 多平台下载工具     | [@download_it_bot](https://t.me/download_it_bot) | 支持大多数网站下载                       |
-| 推特视频下载       | [@twitter_loli_bot](https://t.me/twitter_loli_bot) | 推特视频下载，速度快                     |
-| Reddit下载器       | [@reddit_download_bot](https://t.me/reddit_download_bot) | Reddit视频下载器                        |
-| 多平台下载工具集   | [@MultiSaverXbot](https://t.me/MultiSaverXbot) | 多个链接支持国外下载网站                |
-| B站视频下载       | [@bilifeedbot](https://t.me/bilifeedbot)     | B站下载                                 |
-| Pixiv下载          | [@Pixiv_bot](https://t.me/Pixiv_bot)          | Pixiv下载                                |
-| 电影搜索机器人     | [@Cctv365bot](https://t.me/Cctv365bot)        | 电影搜索机器人                          |
+| 多平台解析工具     | [@ParsehubBot](https://t.me/ParsehubBot) | 支持抖音、B站、油管、TikTok、小红书、推特等解析 |
+| 支持多个平台下载   | [@icbcbot](https://t.me/icbcbot) | 支持抖音、TikTok、推特、Ins、微博等平台下载 |
+| 妙妙小工具 Beta    | [@GLBetabot](https://t.me/GLBetabot) | 支持多个平台和网站的下载功能，详细功能见官网 |
+| 多平台下载工具     | [@download_it_bot](https://t.me/download_it_bot) | 支持大多数网站下载 |
+| 推特视频下载       | [@twitter_loli_bot](https://t.me/twitter_loli_bot) | 推特视频下载，速度快 |
+| Reddit下载器       | [@reddit_download_bot](https://t.me/reddit_download_bot) | Reddit视频下载器 |
+| 多平台下载工具集   | [@MultiSaverXbot](https://t.me/MultiSaverXbot) | 多个链接支持国外下载网站 |
+| B站视频下载       | [@bilifeedbot](https://t.me/bilifeedbot) | B站下载 |
+| Pixiv下载          | [@Pixiv_bot](https://t.me/Pixiv_bot) | Pixiv下载 |
+| 电影搜索机器人     | [@Cctv365bot](https://t.me/Cctv365bot) | 电影搜索机器人 |
 
 ## 其他有趣机器人
 | 名字 | 链接 | 功能描述     |
@@ -414,6 +414,8 @@
 | Data Science,ML & AI Nugget Chats | https://t.me/DatascienceChats | Discussion community for DS... |
 | Data Science, Machine Learning, AI & IOT | https://t.me/KDnuggets | Posts from world's largest ... |
 
+## WEB3社群&搜索
+
 | 名字       | 链接                                                                 | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
 | 币圈必备学习资料   | [awesome-crypto](https://github.com/itgoyo/awesome-crypto)          | 💰财务自由必备币圈导航，没有钱包的建议先申请一个交易所钱包、个人比较推荐[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.chouyi.pro/zh-hans/join/50253981)，币安最近Alpha刷积分活动，空投每个月基本都可以领上万块，感兴趣可以看看[视频教程](https://www.youtube.com/results?search_query=%E5%B8%81%E5%AE%89alpha)   |
@@ -435,7 +437,7 @@
 | Telegram电报僵尸粉                             | [@tgxiunv](https://t.me/tgxiunv)          | 1000人/¥10(1.4U)，稳定30天不掉落，可以使用[币安](https://accounts.binance.com/zh-CN/register?ref=896983517)、[欧易](https://www.chouyi.pro/zh-hans/join/50253981)等交易所红包，无手续费  |
 | 免费亚马逊云服务器 | [https://aws.amazon.com](https://aws.amazon.com/cn/free?trk=cae7b666-a896-474c-81fa-96c8aa124afd&sc_channel=sm) | 免费试用一年高速云服务器，[biliup](https://www.bilibili.com/video/BV1XqHkzCEpN/)可实现自动录制全网直播    |
 
-### 曝光不良频道，请勿轻信(Scammer)
+## 曝光不良频道，请勿轻信(Scammer)
 | 名字       | 链接                                                                 | 功能描述                                   |
 | :--------- | :------------------------------------------------------------------: | :---------------------------------------- |
 |景福宫高端商务|[https://t.me/+7hOI03rX7YVmOWVl](https://t.me/+7hOI03rX7YVmOWVl)|真实性不清楚，请勿轻信上当|
