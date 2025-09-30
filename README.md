@@ -2,7 +2,7 @@
  * @Description:
  * @telegram: @africacy
 -->
-【Telegram荐】10000+ 优质Telegram群组、Telegram频道推荐、频道和机器人，精心筛选，让您轻松玩转Telegram。<br>
+【Telegram推荐】10000+ 优质Telegram群组、Telegram频道推荐、频道和机器人，精心筛选，让您轻松玩转Telegram。<br>
  有任何问题请联系<a href="https://t.me/africacy">@africacy</a> 邮箱<a href="mailto:africacyu@gmail.com">africacyu@gmail.com</a><br><br>
  ❗️请遵守当地法律法规，严禁中国大陆用户使用，一切产生的法律问题，均与本项目无关❗️<br><br><br>
 
